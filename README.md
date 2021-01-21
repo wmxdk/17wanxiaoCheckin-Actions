@@ -68,7 +68,7 @@
       - SCKEY字段：填写一个即可，例如：`SCU90543*******`，没有请前往 [Server酱](https://sc.ftqq.com/3.version) 注册获取
 
    
-
+ 
    ![](https://cdn.jsdelivr.net/gh/ReaJason/17wanxiaoCheckin-Actions/Pictures/new_secrets.png)
 
    
