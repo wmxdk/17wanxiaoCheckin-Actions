@@ -134,8 +134,8 @@ on:
     branches: [ master ]
   pull_request:
     branches: [ master ]
-  schedule:
-   -cron:16,7  * * *
+  schedul:
+-cron:22,21,0 * * *
 ``` 
  
 ### 4、程序报错显示密码错误，还有 * 次机会？
